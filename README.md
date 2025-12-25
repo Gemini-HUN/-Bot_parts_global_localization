@@ -7,6 +7,7 @@ I'm added Hungarian and Russian languages to the DLC
 * Hungarian: Roschach96 and Gemini_HUN (me)
 * Russian: Evelin and Charlott
 
+# You can help
 Edit the language file on my github page or write me on Discord.
 
 Missing languages:
