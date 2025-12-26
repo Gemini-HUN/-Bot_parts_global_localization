@@ -1,7 +1,6 @@
 # Bot_parts_global_localization
-This mod translate the Dr Pepper Bot Parts DLC to multiple languages.
+This mod translate the Dr Pepper Bot Parts DLC to all of the Spore-supported languages.
 
-All the Spore-supported languages are translated.
 # Translated:
 
 * Hungarian: Roschach96 and Gemini_HUN (me)
