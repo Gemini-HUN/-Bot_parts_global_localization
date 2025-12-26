@@ -1,7 +1,7 @@
 # Bot_parts_global_localization
-This mod translate the Dr Pepper Bot Parts DLC to multiple languages
+This mod translate the Dr Pepper Bot Parts DLC to multiple languages.
 
-I'm added Hungarian and Russian languages to the DLC
+All the Spore-supported languages are translated.
 # Translated:
 
 * Hungarian: Roschach96 and Gemini_HUN (me)
@@ -10,7 +10,7 @@ I'm added Hungarian and Russian languages to the DLC
 # You can help
 Check or edit the language file on my github page and give feedback or write me on Discord.
 
-List:
+Progression of translating:
 * cs-cz	AI
 * da-dk	AI
 * de-de	AI
